@@ -27,7 +27,7 @@ A curated list of awesome headless shopify websites
 - Shopping
 - Sports
 - Travel
-- Other
+- [Other](#other)
 
 ## Arts and Entertainment
 - [Inkbox™](https://inkbox.com/) - Here to help you express you. Our tattoos last 1-2 weeks and fade as your skin naturally regenerates. Painless and easy to apply. Delivered to your doorstep. (Contentful, Unbounce, Vue.js, Alpine.js)
@@ -35,3 +35,7 @@ A curated list of awesome headless shopify websites
 ## Food and Drink
 
 - [Grass Roots Farmers' Cooperative](https://grassrootscoop.com/) - Grass-fed, pasture-raised beef, chicken, and pork from small-scale farms delivered to your home. (Contentful, Handlebars)
+
+## Other
+
+- [Baby Registry Babylist](https://www.babylist.com/) - Put anything onto your Baby Registry from any store. It's as easy to use as Pinterest. Because making your baby registry should be fun! (React, Cloudinary)
