@@ -33,3 +33,5 @@ A curated list of awesome headless shopify websites
 - [Inkbox™](https://inkbox.com/) - Here to help you express you. Our tattoos last 1-2 weeks and fade as your skin naturally regenerates. Painless and easy to apply. Delivered to your doorstep. (Contentful, Unbounce, Vue.js, Alpine.js)
 
 ## Food and Drink
+
+- [Grass Roots Farmers' Cooperative](https://grassrootscoop.com/) - Grass-fed, pasture-raised beef, chicken, and pork from small-scale farms delivered to your home. (Contentful, Handlebars)
