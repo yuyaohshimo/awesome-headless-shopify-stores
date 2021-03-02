@@ -13,7 +13,7 @@ A curated list of awesome headless shopify websites
 - Games
 - Healthcare
 - Hobbies and Leisure
-- Home and Garden
+- [Home and Garden](#home-and-garden)
 - Internet and Telecom
 - Jobs and Education
 - Law and Government
@@ -35,6 +35,11 @@ A curated list of awesome headless shopify websites
 ## Food and Drink
 
 - [Grass Roots Farmers' Cooperative](https://grassrootscoop.com/) - Grass-fed, pasture-raised beef, chicken, and pork from small-scale farms delivered to your home. (Contentful, Handlebars)
+
+
+## Home and Garden
+
+- [Parachute](https://www.parachutehome.com/) - Very comfortable essentials that make you feel at home – bedding, bath linens, decor and more. Enjoy free shipping and returns, plus a 60 day trial. (Contentful, React)
 
 ## Shopping
 
