@@ -4,7 +4,7 @@ A curated list of awesome headless shopify websites
 ## Contents
 - [Arts and Entertainment](#arts-and-entertainment)
 - Automotive
-- Beauty and Fitness
+- [Beauty and Fitness](#beauty-and-fitness)
 - Books and Literature
 - Business and Industrial Markets
 - [Computers and Electronics](#computers-and-electronics)
@@ -31,6 +31,10 @@ A curated list of awesome headless shopify websites
 
 ## Arts and Entertainment
 - [Inkbox™](https://inkbox.com/) - Here to help you express you. Our tattoos last 1-2 weeks and fade as your skin naturally regenerates. Painless and easy to apply. Delivered to your doorstep. (Contentful, Unbounce, Vue.js, Alpine.js)
+
+## Beauty and Fitness
+
+- [Victoria Beckham Beauty](https://www.victoriabeckhambeauty.com/) - Introducing Victoria Beckham Beauty. A clean beauty movement for a life in motion. (Contentful, Vue.js, Netlify, Gridsome)
 
 ## Computers and Electronics
 
