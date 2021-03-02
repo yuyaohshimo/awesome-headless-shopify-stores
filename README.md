@@ -4,7 +4,7 @@ A curated list of awesome headless shopify stores.
 ### What is headless commerce?
 
 >Headless commerce separates your front-end design from your back-end infrastructure, empowering you to publish to and from virtually any platform. Instantly.
-
+>
 >Suddenly, any screen is a billboard for your brand. And any device is a checkout for your products. Headless commerce is anywhere commerce.
 
 ## Contents
