@@ -7,7 +7,7 @@ A curated list of awesome headless shopify websites
 - Beauty and Fitness
 - Books and Literature
 - Business and Industrial Markets
-- Computers and Electronics
+- [Computers and Electronics](computers-and-electronics)
 - Finance
 - [Food and Drink](#food-and-drink)
 - Games
@@ -31,6 +31,10 @@ A curated list of awesome headless shopify websites
 
 ## Arts and Entertainment
 - [Inkbox™](https://inkbox.com/) - Here to help you express you. Our tattoos last 1-2 weeks and fade as your skin naturally regenerates. Painless and easy to apply. Delivered to your doorstep. (Contentful, Unbounce, Vue.js, Alpine.js)
+
+## Computers and Electronics
+
+- [Staples® Official Online Store](https://www.staples.com/) - Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife. (Next.js, React)
 
 ## Food and Drink
 
