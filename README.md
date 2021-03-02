@@ -9,7 +9,7 @@ A curated list of awesome headless shopify websites
 - Business and Industrial Markets
 - Computers and Electronics
 - Finance
-- Food and Drink(#food-and-drink)
+- [Food and Drink](#food-and-drink)
 - Games
 - Healthcare
 - Hobbies and Leisure
