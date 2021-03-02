@@ -1,5 +1,5 @@
 # Awesome Headless Shopify
-A curated list of awesome headless shopify websites
+A curated list of awesome headless shopify stores
 
 ## Contents
 - [Arts and Entertainment](#arts-and-entertainment)
