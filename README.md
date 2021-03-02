@@ -11,7 +11,7 @@ A curated list of awesome headless shopify websites
 - Finance
 - [Food and Drink](#food-and-drink)
 - Games
-- Healthcare
+- [Healthcare](#healthcare)
 - Hobbies and Leisure
 - [Home and Garden](#home-and-garden)
 - Internet and Telecom
@@ -42,6 +42,10 @@ A curated list of awesome headless shopify websites
 - [Grass Roots Farmers' Cooperative](https://grassrootscoop.com/) - Grass-fed, pasture-raised beef, chicken, and pork from small-scale farms delivered to your home. (Contentful, Handlebars)
 - [Ramen Hero](https://ramenhero.com) - Ramen Hero delivers real Honkaku right to your door. (Next.js, React)
 
+
+## Healthcare
+
+- [Yoga Girl®](https://www.yogagirl.com/) - We are creating a new lifestyle, movement and brand to heal and change the world. Everyone can be a Yoga Girl. (Contentful, Vue.js, Nuxt.js)
 
 ## Home and Garden
 
