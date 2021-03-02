@@ -51,6 +51,7 @@ A curated list of awesome headless shopify websites
 ## Home and Garden
 
 - [Clare](https://www.clare.com/) - We make paint shopping simple with curated colors, peel and stick paint swatches, and premium, Zero VOC interior paint and supplies delivered to your door. (Contentful, React, styled-components)
+- [Koala Furniture](https://au.koala.com/) - Brilliant Aussie furniture with a heart. Delivering high-quality furniture with a free 4-hour delivery and a risk-free 120-night trial. Making good stuff that's easy to buy, try and use. (Vue.js, Nuxt.js, Amazon Cloudfront)
 - [Parachute](https://www.parachutehome.com/) - Very comfortable essentials that make you feel at home – bedding, bath linens, decor and more. Enjoy free shipping and returns, plus a 60 day trial. (Contentful, React)
 - [Rachio](https://rachio.com/) - With Rachio, make lawn care effortless with smart irrigation controllers and effective, natural soil treatments. (Contentful, React, Gatsby, styled-components)
 
