@@ -2,7 +2,7 @@
 A curated list of awesome headless shopify websites
 
 ## Contents
-- [Arts and Entertainment](arts-and-entertainment)
+- [Arts and Entertainment](#arts-and-entertainment)
 - Automotive
 - Beauty and Fitness
 - Books and Literature
