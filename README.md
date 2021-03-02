@@ -56,6 +56,7 @@ A curated list of awesome headless shopify websites
 
 ## Shopping
 
+- [Gatsby Store](https://store.gatsbyjs.org/) - Holy buckets! Get your Gatsby swag here! (React, Gatsby, Netlify)
 - [Rothy's](https://rothys.com/) - Sustainable style done differently. (jQuery)
 
 ## Other
