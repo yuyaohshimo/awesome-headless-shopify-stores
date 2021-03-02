@@ -1,4 +1,4 @@
-# Awesome Headless Shopify
+# Awesome Headless Shopify Stores
 A curated list of awesome headless shopify stores
 
 ## Contents
