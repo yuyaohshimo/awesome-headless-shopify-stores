@@ -40,6 +40,7 @@ A curated list of awesome headless shopify websites
 ## Food and Drink
 
 - [Grass Roots Farmers' Cooperative](https://grassrootscoop.com/) - Grass-fed, pasture-raised beef, chicken, and pork from small-scale farms delivered to your home. (Contentful, Handlebars)
+- [Ramen Hero](https://ramenhero.com) - Ramen Hero delivers real Honkaku right to your door. (Next.js, React)
 
 
 ## Home and Garden
