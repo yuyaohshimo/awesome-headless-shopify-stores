@@ -34,6 +34,7 @@ A curated list of awesome headless shopify websites
 
 ## Computers and Electronics
 
+- [JB Hi-Fi](https://www.jbhifi.com.au/) - JB Hi-Fi is Australia's largest home entertainment retailer with top products, great quality + value. Learn more about our product range online. (Contentful)
 - [Staples® Official Online Store](https://www.staples.com/) - Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife. (Next.js, React)
 
 ## Food and Drink
