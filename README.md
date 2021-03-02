@@ -1,5 +1,5 @@
 # Awesome Headless Shopify Stores
-A curated list of awesome headless shopify stores.
+A curated list of awesome headless Shopify stores.
 
 ### What is headless commerce?
 
