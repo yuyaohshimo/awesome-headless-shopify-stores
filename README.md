@@ -45,6 +45,7 @@ A curated list of awesome headless shopify websites
 
 ## Home and Garden
 
+- [Clare](https://www.clare.com/) - We make paint shopping simple with curated colors, peel and stick paint swatches, and premium, Zero VOC interior paint and supplies delivered to your door. (Contentful, React, styled-components)
 - [Parachute](https://www.parachutehome.com/) - Very comfortable essentials that make you feel at home – bedding, bath linens, decor and more. Enjoy free shipping and returns, plus a 60 day trial. (Contentful, React)
 
 ## Shopping
