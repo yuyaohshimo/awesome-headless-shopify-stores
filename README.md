@@ -7,7 +7,7 @@ A curated list of awesome headless shopify websites
 - Beauty and Fitness
 - Books and Literature
 - Business and Industrial Markets
-- [Computers and Electronics](computers-and-electronics)
+- [Computers and Electronics](#computers-and-electronics)
 - Finance
 - [Food and Drink](#food-and-drink)
 - Games
