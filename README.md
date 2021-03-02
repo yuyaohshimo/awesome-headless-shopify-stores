@@ -2,7 +2,7 @@
 A curated list of awesome headless shopify websites
 
 ## Contents
-- Arts and Entertainment
+- [Arts and Entertainment](arts-and-entertainment)
 - Automotive
 - Beauty and Fitness
 - Books and Literature
@@ -28,5 +28,8 @@ A curated list of awesome headless shopify websites
 - Sports
 - Travel
 - Other
+
+## Arts and Entertainment
+- [Inkbox™](https://inkbox.com/) - Here to help you express you. Our tattoos last 1-2 weeks and fade as your skin naturally regenerates. Painless and easy to apply. Delivered to your doorstep. (Contentful, Unbounce, Vue.js, Alpine.js)
 
 ## Food and Drink
