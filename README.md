@@ -40,6 +40,7 @@ A curated list of awesome headless Shopify stores.
 
 ## Beauty and Fitness
 
+- [Humanrace](https://www.humanrace.com/) - Humanrace is a product company founded by Pharrell Williams with a mission to empower all people in their pursuit of wellbeing. (Contentful, React, Gatsby, Netlify)
 - [Victoria Beckham Beauty](https://www.victoriabeckhambeauty.com/) - Introducing Victoria Beckham Beauty. A clean beauty movement for a life in motion. (Contentful, Vue.js, Netlify, Gridsome)
 
 ## Computers and Electronics
