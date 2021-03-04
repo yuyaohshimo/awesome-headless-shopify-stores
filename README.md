@@ -70,6 +70,7 @@ A curated list of awesome headless Shopify stores.
 ## Shopping
 
 - [Gatsby Store](https://store.gatsbyjs.org/) - Holy buckets! Get your Gatsby swag here! (React, Gatsby, Netlify)
+- [Paul Valentine](https://www.paul-valentine.com/) - Make a statement with stunning watches by Paul Valentine to suit your style. (Contentful, Vue.js, Nuxt.js, Netlify)
 - [Rothy's](https://rothys.com/) - Sustainable style done differently. (jQuery)
 
 ## Other
