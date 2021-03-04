@@ -71,6 +71,7 @@ A curated list of awesome headless Shopify stores.
 ## Shopping
 
 - [Gatsby Store](https://store.gatsbyjs.org/) - React, Gatsby, Netlify
+- [Goodfight](https://www.goodfight.shop/) - Vue.js, Nuxt.js, Cloudflare
 - [Paul Valentine](https://www.paul-valentine.com/) - Contentful, Vue.js, Nuxt.js, Netlify
 - [Rothy's](https://rothys.com/) - jQuery, Cloudflare
 - [Something Navy](https://www.somethingnavy.com/) - Contentful, Vue.js, Nuxt.js
