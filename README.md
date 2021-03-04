@@ -51,6 +51,7 @@ A curated list of awesome headless Shopify stores.
 ## Food and Drink
 
 - [Grass Roots Farmers' Cooperative](https://grassrootscoop.com/) - Grass-fed, pasture-raised beef, chicken, and pork from small-scale farms delivered to your home. (Contentful, Handlebars)
+- [PlantRise](https://plantrise.com/) - Planet Earth's most nutrient rich green superfood. (Contentful, React, Gatsby, Vercel)
 - [Ramen Hero](https://ramenhero.com) - Ramen Hero delivers real Honkaku right to your door. (Next.js, React)
 - [Seedlip](https://www.seedlipdrinks.com/) - Non Alcoholic Drinks from Seedlip, The World's First Distilled Non Alcoholic Spirits. Discover our Range of Drinks Including Easy to Make Non Alcoholic Cocktails with Recipes. Shop Now. (Next.js, React, Handlebars)
 
