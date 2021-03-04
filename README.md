@@ -50,10 +50,10 @@ A curated list of awesome headless Shopify stores.
 
 ## Food and Drink
 
-- [Grass Roots Farmers' Cooperative](https://grassrootscoop.com/) - Contentful, Handlebars
+- [Grass Roots Farmers' Cooperative](https://grassrootscoop.com/) - Contentful, Handlebars, Cloudflare
 - [PlantRise](https://plantrise.com/) - Contentful, React, Gatsby, Vercel
 - [Ramen Hero](https://ramenhero.com) - Next.js, React, Imgix, Vercel
-- [Seedlip](https://www.seedlipdrinks.com/) - Next.js, React, Handlebars
+- [Seedlip](https://www.seedlipdrinks.com/) - Next.js, React, Handlebars, jsDelivr, Amazon Cloudfront
 
 
 ## Healthcare
@@ -62,11 +62,11 @@ A curated list of awesome headless Shopify stores.
 
 ## Home and Garden
 
-- [Clare](https://www.clare.com/) - Contentful, React, styled-components
+- [Clare](https://www.clare.com/) - Contentful, React, styled-components, Cloudflare
 - [Cravings](https://cravingsbychrissyteigen.com/) - Contentful, Vue.js, Nuxt.js, Netlify
 - [Koala Furniture](https://au.koala.com/) - Vue.js, Nuxt.js, Amazon Cloudfront
-- [Parachute](https://www.parachutehome.com/) - Contentful, React
-- [Rachio](https://rachio.com/) - Contentful, React, Gatsby, styled-components
+- [Parachute](https://www.parachutehome.com/) - Contentful, React, Amazon Cloudfront
+- [Rachio](https://rachio.com/) - Contentful, React, Gatsby, styled-components, Amazon Cloudfront
 
 ## Shopping
 
